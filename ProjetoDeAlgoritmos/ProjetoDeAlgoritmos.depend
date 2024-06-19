@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1718772135 source:c:\users\gpolo\desktop\projetodealgoritmos\projetodealgoritmos\main.cpp
+	<iostream>
+	"get_largest_vector_element.h"
+	"get_vector_max_min.h"
+	"get_vector_max_min_2.h"
+	"order_vector_ascension.h"
+	"order_vector_descension.h"
+
+1718769860 c:\users\gpolo\desktop\projetodealgoritmos\projetodealgoritmos\get_largest_vector_element.h
+	<vector>
+
+1718771207 c:\users\gpolo\desktop\projetodealgoritmos\projetodealgoritmos\get_vector_max_min.h
+	<vector>
+
+1718771209 c:\users\gpolo\desktop\projetodealgoritmos\projetodealgoritmos\get_vector_max_min_2.h
+
+1718772079 c:\users\gpolo\desktop\projetodealgoritmos\projetodealgoritmos\order_vector_ascension.h
+
+1718772262 c:\users\gpolo\desktop\projetodealgoritmos\projetodealgoritmos\order_vector_descension.h
+
